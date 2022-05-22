@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Web Components Example</title>
+    <!-- style -->
+    <style>
+      h3 {
+        color: purple;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h3>User Card</h3>
+    <user-card
+      name="John Doe"
+      avatar="https://randomuser.me/api/portraits/men/1.jpg"
+    >
+      <div slot="email">johndoe@email.com</div>
+      <div slot="phone">555-555-555-6</div>
+    </user-card>
+    <user-card
+      name="Jane Doe"
+      avatar="https://randomuser.me/api/portraits/women/2.jpg"
+    >
+      <div slot="email">janedoe@email.com</div>
+      <div slot="phone">555-555-555-7</div>
+    </user-card>
+
+    <script src="userCard.js"></script>
+  </body>
+</html>
