@@ -1,8 +1,20 @@
 #### Web Components Examples
 
+Web components encapsulate HTML, CSS and functionality so that they can be used without any interference in any project, based on any platform (such as Vue/React/Angular). They're a very handy way to integrate awesome UI elements created by others, and they also allow you and your team to share components that work on any platform.
+
 1. User card
-   - [tutorial](https://www.youtube.com/watch?v=PCWaFLy3VUo)
+
+- [tutorial](https://www.youtube.com/watch?v=PCWaFLy3VUo)
 
 <p align-items: center>
-    <img src='ReadMe-IMAGES/1.png' width='200'>
+    <img src='ReadMe-IMAGES/1.png' width='400'>
+</p>
+
+2. Tooltip
+
+- [tutorial](https://www.youtube.com/watch?v=mNtLjzzxGQM)
+- Icon toggle functionality; we have a text with an icon alert inside; when the icon is clicked a pop up window is showing and the icon is changed. When we click again the window closes and icon changes back.
+
+<p align-items: center>
+    <img src='ReadMe-IMAGES/2.png' width='400'>
 </p>

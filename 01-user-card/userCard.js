@@ -70,7 +70,7 @@ class UserCard extends HTMLElement {
     }
   }
 
-  //add eventListener to the toggle button to hide info; We put it in the lifecicle method called connectedCallback. It is called every time an element is inserted into the DOM.
+  //add eventListener to the toggle button to hide info; We put it in the life-cicle method called connectedCallback. It is called every time an element is inserted into the DOM.
   connectedCallback() {
     this.shadowRoot
       .querySelector('#toggle-info')

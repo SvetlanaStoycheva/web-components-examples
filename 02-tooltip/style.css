@@ -1,0 +1,38 @@
+body {
+  font-family: 'Nunito', Arial, Helvetica, sans-serif;
+  font-size: 22px;
+}
+.title {
+  margin-bottom: 5rem;
+}
+.container {
+  width: 80%;
+  margin: 8rem auto;
+}
+/* .notify-container {
+  position: absolute;
+  bottom: 43%;
+  left: 30%;
+  z-index: 9;
+  width: 300px;
+  background: white;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+  font-size: 1rem;
+  border-radius: 6px;
+  padding: 1rem;
+  transform: scale(0);
+  transition: transform 0.5s;
+} */
+/* .alert {
+  width: 1.2rem;
+  height: 1.2rem;
+  cursor: pointer;
+}
+.cancel {
+  display: none;
+}
+.tooltip-container {
+  display: inline-block;
+  position: relative;
+  z-index: 2;
+} */
