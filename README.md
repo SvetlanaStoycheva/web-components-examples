@@ -18,3 +18,19 @@ Web components encapsulate HTML, CSS and functionality so that they can be used 
 <p align-items: center>
     <img src='ReadMe-IMAGES/2.png' width='400'>
 </p>
+
+3. Search your name in Google
+
+- [tutorial](https://academind.com/tutorials/web-components-introduction)
+
+<p align-items: center>
+    <img src='ReadMe-IMAGES/2.png' width='400'>
+</p>
+
+4. Cool Checkbox
+
+- [tutorial](https://www.youtube.com/watch?v=xCeutzpRlzA)
+
+<p align-items: center>
+    <img src='ReadMe-IMAGES/2.png' width='400'>
+</p>
