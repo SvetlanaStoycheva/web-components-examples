@@ -24,7 +24,7 @@ Web components encapsulate HTML, CSS and functionality so that they can be used 
 - [tutorial](https://academind.com/tutorials/web-components-introduction)
 
 <p align-items: center>
-    <img src='ReadMe-IMAGES/2.png' width='400'>
+    <img src='ReadMe-IMAGES/3.png' width='400'>
 </p>
 
 4. Cool Checkbox
@@ -32,5 +32,5 @@ Web components encapsulate HTML, CSS and functionality so that they can be used 
 - [tutorial](https://www.youtube.com/watch?v=xCeutzpRlzA)
 
 <p align-items: center>
-    <img src='ReadMe-IMAGES/2.png' width='400'>
+    <img src='ReadMe-IMAGES/4.png' width='400'>
 </p>
