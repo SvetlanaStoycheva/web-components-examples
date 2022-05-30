@@ -1,0 +1,60 @@
+/* *,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+/* img {
+  display: block;
+} */
+
+.image {
+  width: 8rem;
+  height: 8rem;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.avatar {
+  width: 40vw;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+.pet-card {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(243, 239, 231);
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border-radius: 6px;
+}
+.inner-container {
+  margin: 2rem auto;
+}
+.details {
+  background-color: rgb(245, 216, 245);
+  display: inline-block;
+  width: 40vw;
+  padding: 1rem;
+  border-radius: 8px;
+}
+.btn {
+  border: transparent;
+  background: wheat;
+  padding: 0.6rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  letter-spacing: 0.1rem;
+  transition: all 0.3s linear;
+}
+.btn:hover {
+  background-color: rgb(247, 240, 228);
+}
+.info {
+  display: none;
+}

@@ -34,3 +34,14 @@ Web components encapsulate HTML, CSS and functionality so that they can be used 
 <p align-items: center>
     <img src='ReadMe-IMAGES/4.png' width='400'>
 </p>
+
+5. Dogs Cards
+
+- [tutorial](https://www.youtube.com/watch?v=gfvFEBXMVSU&t=787s)
+
+<p align-items: center>
+    <img src='ReadMe-IMAGES/5.png' width='400'>
+</p>
+<p align-items: center>
+    <img src='ReadMe-IMAGES/6.png' width='400'>
+</p>
